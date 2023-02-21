@@ -7,7 +7,7 @@
 /**
  * main - main function
  *
- * Return: Always 0 (succes)
+ * Return: always 0 (succes)
  */
 int main(void)
 {
