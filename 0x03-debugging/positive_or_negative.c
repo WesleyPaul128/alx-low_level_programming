@@ -2,7 +2,7 @@
 
 /**
  * positive_or_negative - checks for negative or positive numbers
- *
+ * @i: the number to  be checked
  * Return: always 0
  */
 
